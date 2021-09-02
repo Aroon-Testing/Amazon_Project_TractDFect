@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="67016" started-at="2021-09-02T14:26:13Z" finished-at="2021-09-02T14:27:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="67016" started-at="2021-09-02T14:26:13Z" finished-at="2021-09-02T14:27:21Z">
+      <class name="org.test.ExecutionClass">
+        <test-method status="PASS" signature="launcher(java.lang.String)[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="launcher" is-config="true" duration-ms="12175" started-at="2021-09-02T14:26:14Z" finished-at="2021-09-02T14:26:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.amazon.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launcher -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="133" started-at="2021-09-02T14:26:26Z" finished-at="2021-09-02T14:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="tc1(java.lang.String)[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc1" duration-ms="3703" started-at="2021-09-02T14:26:26Z" finished-at="2021-09-02T14:26:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="3" started-at="2021-09-02T14:26:30Z" finished-at="2021-09-02T14:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc2" duration-ms="858" started-at="2021-09-02T14:26:30Z" finished-at="2021-09-02T14:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="4" started-at="2021-09-02T14:26:30Z" finished-at="2021-09-02T14:26:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc3" duration-ms="6483" started-at="2021-09-02T14:26:30Z" finished-at="2021-09-02T14:26:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="1" started-at="2021-09-02T14:26:37Z" finished-at="2021-09-02T14:26:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc4" duration-ms="11979" started-at="2021-09-02T14:26:37Z" finished-at="2021-09-02T14:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="3" started-at="2021-09-02T14:26:49Z" finished-at="2021-09-02T14:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="tc5(java.lang.String, java.lang.String)[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc5" duration-ms="6855" started-at="2021-09-02T14:26:49Z" finished-at="2021-09-02T14:26:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8973209981]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Aroondass.p1998]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="2" started-at="2021-09-02T14:26:56Z" finished-at="2021-09-02T14:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="tc6()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc6" duration-ms="1" started-at="2021-09-02T14:26:56Z" finished-at="2021-09-02T14:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="1" started-at="2021-09-02T14:26:56Z" finished-at="2021-09-02T14:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="tc7()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc7" duration-ms="6778" started-at="2021-09-02T14:26:56Z" finished-at="2021-09-02T14:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="tc8(java.lang.String)[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc8" duration-ms="12376" started-at="2021-09-02T14:27:03Z" finished-at="2021-09-02T14:27:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.amazon.in/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="0" started-at="2021-09-02T14:27:03Z" finished-at="2021-09-02T14:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="preTest" is-config="true" duration-ms="1" started-at="2021-09-02T14:27:15Z" finished-at="2021-09-02T14:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="tc9()[pri:0, instance:org.test.ExecutionClass@12b0404f]" name="tc9" duration-ms="5591" started-at="2021-09-02T14:27:15Z" finished-at="2021-09-02T14:27:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+      </class> <!-- org.test.ExecutionClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
